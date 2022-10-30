@@ -1,0 +1,15 @@
+.cartData {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+    font-weight: bold;
+    background-color: lightgray;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.cartData p {
+    margin: 1rem;
+}

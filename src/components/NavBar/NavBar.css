@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto+Slab:wght@600&display=swap');
+
+nav {
+    background-color: lightgray;
+}
+
+.titulo {
+    font-family: 'Roboto Slab', serif;
+    font-size: 40px;
+    text-decoration: none;
+    color: black;
+}
+
+.titulo:hover {
+    border-bottom: 2px solid black;
+    color: black;
+}
+
+img {
+    width: 30px
+}
+
+.navBar {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 22px;
+    padding: 0.5rem;
+}
+
+.navBarElement {
+    margin: 1rem;
+    text-decoration: none;
+    color: black;
+}
+
+.navBarElement:hover {
+    border-bottom: 2px solid black;
+    color: black;
+}

@@ -1,0 +1,16 @@
+@keyframes from-left {
+    0% {
+      transform: translate(1800px, 0px); }
+    100% {
+      transform: translate(0px, 0px); } }
+
+.notification {
+    position:absolute;
+    top: 200px;
+    right: 60px;
+    padding: 20px;
+    color: white;
+    background-color: black;
+    font-size: larger;
+    font-weight: bold;
+}

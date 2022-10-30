@@ -1,0 +1,23 @@
+.selector {
+    font-size: larger;
+    font-weight: bold;
+}
+
+.selector button {
+    font-size: inherit;
+    font-weight: inherit;
+}
+
+.addAndSubtract {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.addAndSubtract button {
+    height: fit-content;
+}
+
+.addAndSubtract p {
+    margin: 1rem;
+}
